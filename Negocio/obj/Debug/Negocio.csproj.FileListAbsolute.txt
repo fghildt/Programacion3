@@ -1,0 +1,9 @@
+C:\SSD\Prog III\TPC_Hildt\Negocio\bin\Debug\Negocio.dll
+C:\SSD\Prog III\TPC_Hildt\Negocio\bin\Debug\Negocio.pdb
+C:\SSD\Prog III\TPC_Hildt\Negocio\bin\Debug\Dominio.dll
+C:\SSD\Prog III\TPC_Hildt\Negocio\bin\Debug\Dominio.pdb
+C:\SSD\Prog III\TPC_Hildt\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\SSD\Prog III\TPC_Hildt\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\SSD\Prog III\TPC_Hildt\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\SSD\Prog III\TPC_Hildt\Negocio\obj\Debug\Negocio.dll
+C:\SSD\Prog III\TPC_Hildt\Negocio\obj\Debug\Negocio.pdb

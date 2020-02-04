@@ -1,0 +1,6 @@
+C:\SSD\Prog III\TPC_Hildt\Dominio\bin\Debug\Dominio.dll
+C:\SSD\Prog III\TPC_Hildt\Dominio\bin\Debug\Dominio.pdb
+C:\SSD\Prog III\TPC_Hildt\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\SSD\Prog III\TPC_Hildt\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\SSD\Prog III\TPC_Hildt\Dominio\obj\Debug\Dominio.dll
+C:\SSD\Prog III\TPC_Hildt\Dominio\obj\Debug\Dominio.pdb
